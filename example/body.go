@@ -1,3 +1,4 @@
+//go:generate propgen
 package main
 
 import "time"
